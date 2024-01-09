@@ -2,10 +2,10 @@ import telebot
 from qrbot import *
 import os
 
-API_TOKEN = '6495322558:AAGkkAdzQMGPbt3EktAZ5a-jNMhQGz7MN74'
+API_TOKEN = ''#your bot token
 
 bot = telebot.TeleBot(API_TOKEN)
-bot_username="@thepr0fessor_bot"
+bot_username=""#your bot user name
 
 
 # Handle '/start' and '/help'
