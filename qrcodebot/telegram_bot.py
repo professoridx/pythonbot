@@ -1,5 +1,5 @@
 import telebot
-from qrbot import *
+from pythonbot.qrcodebot.qrbot import *
 import os
 
 API_TOKEN = ''#your bot token
